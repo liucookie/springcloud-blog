@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/company_server1/company_server1.iml" filepath="$PROJECT_DIR$/company_server1/company_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company_server2/company_server2.iml" filepath="$PROJECT_DIR$/company_server2/company_server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_server1/feign_server1.iml" filepath="$PROJECT_DIR$/feign_server1/feign_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix_ribbon_server1/hystrix_ribbon_server1.iml" filepath="$PROJECT_DIR$/hystrix_ribbon_server1/hystrix_ribbon_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_server1/ribbon_server1.iml" filepath="$PROJECT_DIR$/ribbon_server1/ribbon_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudfinchley.iml" filepath="$PROJECT_DIR$/.idea/springcloudfinchley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_server1/user_server1.iml" filepath="$PROJECT_DIR$/user_server1/user_server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zklock/zklock.iml" filepath="$PROJECT_DIR$/zklock/zklock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_server1/zuul_server1.iml" filepath="$PROJECT_DIR$/zuul_server1/zuul_server1.iml" />
+    </modules>
+  </component>
+</project>

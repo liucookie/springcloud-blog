@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="company_server1" />
+        <module name="company_server2" />
+        <module name="eureka_server" />
+        <module name="feign_server1" />
+        <module name="hystrix_ribbon_server1" />
+        <module name="ribbon_server1" />
+        <module name="user_server1" />
+        <module name="zklock" />
+        <module name="zuul_server1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="company_server1" target="1.8" />
+      <module name="company_server2" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="feign_server1" target="1.8" />
+      <module name="hystrix_ribbon_server1" target="1.8" />
+      <module name="ribbon_server1" target="1.8" />
+      <module name="user_server1" target="1.8" />
+      <module name="zklock" target="1.8" />
+      <module name="zuul_server1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="company_server1" options="-parameters" />
+      <module name="company_server2" options="-parameters" />
+      <module name="eureka_server" options="-parameters" />
+      <module name="feign_server1" options="-parameters" />
+      <module name="hystrix_ribbon_server1" options="-parameters" />
+      <module name="ribbon_server1" options="-parameters" />
+      <module name="user_server1" options="-parameters" />
+      <module name="zklock" options="-parameters" />
+      <module name="zuul_server1" options="-parameters" />
+    </option>
+  </component>
+</project>
